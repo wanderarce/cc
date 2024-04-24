@@ -1,0 +1,15 @@
+[{
+  "id": 1,
+  "name": "Cimento",
+  "active": true
+},
+{
+  "id": 2,
+  "name": "Areia",
+  "active": true
+},
+{
+  "id": 3,
+  "name": "Pedra",
+  "active": true
+}]
